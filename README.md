@@ -1,99 +1,25 @@
-<h1 align="center">Hi 👋, I'm Jyothish Nalinakshan</h1>
+# 💫 About Me:
+Computer science student passionate about web development and graphic design. Former Media Wing Leader of NSS Chattanchal and now the Technical Lead of the AWS Student Builders Group and Design lead of the GDG at Lbscek, driving cloud and tech initiatives on campus. Experienced in building websites, creating impactful digital content, and video editing for brands and organizations. Always eager to explore new technologies and create innovative digital solutions
 
-<h3 align="center">
-AWS Student Builder • AI Developer • Full Stack Developer • Graphic Designer
-</h3>
 
-<p align="center">
-Building AI-powered applications, cloud solutions, and impactful open-source projects.
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gunnerjyo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyothish-nalinakshan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/GunnerJyo) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/GunnerJyo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GunnerJyo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GunnerJyo) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=GunnerJyo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=GunnerJyo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=GunnerJyo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 About Me
-
-- 🎓 Computer Science Student from Kerala, India
-- ☁️ AWS Student Builder
-- 🤖 Passionate about Artificial Intelligence & Cloud Computing
-- 💻 Building scalable web applications and automation tools
-- 🎨 Graphic Designer & Content Creator
-- 🌱 Currently exploring Generative AI, Amazon Bedrock, Serverless Architecture, and AWS
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=GunnerJyo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 Tech Stack
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/GunnerJyo) 
 
-### Languages
-
-Python • JavaScript • HTML • CSS • C++ • PHP
-
-### Cloud & AI
-
-AWS • Amazon Bedrock • AWS Lambda • API Gateway • IAM
-
-### Frameworks & Tools
-
-Git • GitHub • Node.js • WordPress • Cloudflare • Netlify
-
-### Design
-
-Canva • Photoshop • Figma
-
----
-
-## 🌟 Featured Projects
-
-### 🛒 Grocery Sorter AI
-AI-powered grocery organization using Amazon Bedrock, AWS Lambda, and API Gateway.
-
-### ☀️ AWS Morning Brief Agent
-An intelligent daily briefing assistant built with AWS serverless technologies.
-
-### 🤖 Ghost Discord Bot
-Feature-rich Discord bot with moderation and automation capabilities.
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects, achievements, and technical skills.
-
----
-
-## 🏆 Achievements
-
-- ☁️ AWS Student Builder
-- 🚀 Built multiple AI and cloud-based applications
-- 🌐 Developed websites and automation tools
-- 🎨 Experienced Graphic Designer
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GunnerJyo&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GunnerJyo&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunnerJyo&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-## 📫 Connect with Me
-
-🌐 Website: https://gunnerjyo.in
-
-📺 YouTube: https://youtube.com/@GunnerJyo
-
-📷 Instagram: https://instagram.com/gunnerjyo
-
----
-
-<p align="center">
-Thanks for visiting my profile ⭐
-</p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
