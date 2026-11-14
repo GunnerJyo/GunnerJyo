@@ -1,7 +1,7 @@
-# Hi, I'm Jyothish 👋
+# Hi, I'm Jyothish 
 
 Developer |  Graphic Designer
 
 I like building and organize 
 
-Thanks for visiting my profile!
+Thanks for visiting my profile!!
