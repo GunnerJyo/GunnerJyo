@@ -1,7 +1,7 @@
 # Hi, I'm Jyothish 👋
 
-💻 Developer | 🎨 Graphic Designer
+Developer |  Graphic Designer
 
-I like building websites, creating digital content, and exploring new technologies.
+I like building and organize 
 
 Thanks for visiting my profile!
